@@ -473,15 +473,7 @@ Synthesized Behavior
 
 If the important signals show the expected matching behavior, it provides evidence that the synthesis process has preserved the intended functionality of the RTL.
 
-### RTL Waveform
 
-```markdown
-![RTL Waveform](images/pre_synth_babysoc.png)
-```
-
-The matching behavior of the important signals demonstrates that the synthesized implementation continues to perform the intended function for the applied testbench.
-
----
 
 # ⏱️ 10. Functional GLS vs Timing GLS
 

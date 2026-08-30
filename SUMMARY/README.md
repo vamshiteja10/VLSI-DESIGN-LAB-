@@ -1,4 +1,4 @@
-# VLSI RTL Design and Synthesis – Overall Summary
+# VLSI RTL Design and Synthesis – Overall Summary & BabySoc
 
 The **VLSI RTL Design and Synthesis training** provided a practical understanding of how a digital design moves from a **Verilog RTL description to a synthesized gate-level implementation**. The training covered RTL coding, functional simulation, waveform analysis, timing libraries, hierarchical and sequential design, logic optimization, synthesis, technology mapping, Gate-Level Simulation (GLS), and synthesis-oriented coding practices. The complete work was carried out using open-source EDA tools such as **Icarus Verilog, GTKWave, Yosys, and ABC**, along with the **SKY130 standard-cell library**.
 
